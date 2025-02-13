@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48f6b5&height=150&section=header"/>
 
-# Projeto GitHub Copilot - Validando bandeiras de cartões <img width=10% src="githubimg.png"/>
+# <img width=4% src="githubimg.png"/> Projeto GitHub Copilot - Validando bandeiras de cartões  
 Neste projeto, disponibilizado pela DIO para os participantes do Bootcamp Microsoft AI for Tech - GitHub Copilot, foi realizada a validação de cartões utilizando o GitHub Copilot como assistente de codificação. Dessa forma, aplicamos todas as técnicas e ensinamentos transmitidos em aula para orientar o Copilot da maneira mais eficiente possível, garantindo assim os melhores resultados na utilização de inteligência artificial por meio de técnicas avançadas de Prompt Engineering.
 
 
